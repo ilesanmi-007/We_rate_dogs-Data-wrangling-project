@@ -19,7 +19,8 @@ Also, the tweeter-archive-enhanced data frame which had more details of the we-r
 
 ## The Assess and Clean.
 
-Here was the whole cleaning process of the 3 dataset. It had the test for quality and test for tidiness of the data. More of these were summed up in the wrangling_report.pdf file.
+Here was the whole cleaning process of the 3 dataset. It had the test for quality and test for tidiness of the data. More of these were summed up in the wrangling_report.pdf file. The two method used in this cleaning process is the visual method and programmatic method. For the visual, a use of spreadsheet and python for the programmatic.
+
 A peep:
 ![image](https://user-images.githubusercontent.com/68794860/175949848-884a4756-4058-4ae0-81f3-adbdaf5e6870.png)
 
