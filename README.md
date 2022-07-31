@@ -1,4 +1,6 @@
-# We_rate_dogs Data-wrangling-project
+# Data-wrangling-project
+
+# **We Rate Dogs Data Wrangling**
 
 This is a data wrangling project.
 
@@ -19,9 +21,9 @@ Also, the tweeter-archive-enhanced data frame which had more details of the we-r
 
 ## The Assess and Clean.
 
-Here was the whole cleaning process of the 3 dataset. It had the test for quality and test for tidiness of the data. More of these were summed up in the wrangling_report.pdf file. The two method used in this cleaning process is the visual method and programmatic method. For the visual, a use of spreadsheet and python for the programmatic.
+Here was the whole cleaning process of the 3 dataset. It had the test for quality and test for tidiness of the data. More of these were summed up in the wrangling_report.pdf file. The two method used in this cleaning process is the visual method and programmatic method. For the visual, a use of spreadsheet and python for the programmatic. Also, using the **Question, Code and Observation** method
 
-A peep:
+## **A peep:**
 ![image](https://user-images.githubusercontent.com/68794860/175949848-884a4756-4058-4ae0-81f3-adbdaf5e6870.png)
 
 This was fully done until I had a clean data ready for exploration and visualization
